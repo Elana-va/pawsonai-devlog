@@ -8,6 +8,8 @@
 
 </div>
 
+![PAWSON AI](screenshots/pawson-ai-wordmark.png)
+
 ## 从这里开始
 
 > [阅读完整开发历程：为什么做、如何取舍、一路解决了什么问题](docs/development-history.md)
@@ -34,6 +36,13 @@
 - [日期日志](updates/)：某一天或某个阶段的详细记录。
 - [版本记录](releases/)：对外可公开的交付范围和边界。
 - [开发日记模板](updates/TEMPLATE.md)：后续每次更新沿用同一套叙事与脱敏检查。
+- [项目图片](screenshots/README.md)：经过脱敏检查的真实开发截图与产品素材。
+
+## 产品画面
+
+![派笙 AI 中台 2.0 登录页](screenshots/2026-09-platform-login.png)
+
+> 2026-09-09：派笙 AI 中台 2.0 登录页。更多历史界面见 [项目图片](screenshots/README.md)。
 
 ## 公开边界
 
