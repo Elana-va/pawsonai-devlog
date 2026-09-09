@@ -1,5 +1,7 @@
 # 更新日志
 
+**简体中文** · [English](CHANGELOG_EN.md)
+
 这里记录适合公开的产品级变化。更完整的决策背景见 [开发历程](docs/development-history.md)。
 
 ## 2026-09-10
