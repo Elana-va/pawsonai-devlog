@@ -1,0 +1,12 @@
+# Local and sensitive files
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.log
+*.sqlite
+*.sqlite3
+.DS_Store
+Thumbs.db
