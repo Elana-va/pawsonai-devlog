@@ -6,6 +6,9 @@ This file lists product-level changes that are safe to publish. See the [develop
 
 ## September 10, 2026
 
+- Established the public development-log repository.
+- Added a daily workflow for evidence collection, redaction, bilingual writing, link checks, and remote verification.
+- Completed Chinese and English editions for all dated entries and release notes.
 - Completed the isolated runtime experiment for commercial AI access: 15 of 16 final cases passed.
 - Found that user cancellation did not promptly close the upstream connection and validated a separate explicit-abort prototype.
 - Made no paid model calls; real gateway and provider metering remain unverified.

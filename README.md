@@ -20,7 +20,7 @@
   <img alt="Source" src="https://img.shields.io/badge/源码-Private-334155?style=flat-square&logo=github">
 </p>
 
-**[开发历程](docs/development-history.md)** · **[项目图片](screenshots/README.md)** · **[最新进展](updates/2026-09-10.md)** · **[版本记录](releases/)** · **[公开路线图](ROADMAP.md)**
+**[开发历程](docs/development-history.md)** · **[项目图片](screenshots/README.md)** · **[最新进展](updates/2026-09-10.md)** · **[日更流程](docs/daily-update-workflow.md)** · **[版本记录](releases/)** · **[公开路线图](ROADMAP.md)**
 
 </div>
 
@@ -39,6 +39,7 @@
 | 📖 **项目是怎样一路做出来的** | [完整开发历程](docs/development-history.md) |
 | 🖼️ **查看真实产品界面与演进对比** | [项目图片集](screenshots/README.md) |
 | 🗓️ **按日期查看每个阶段做了什么** | [开发日记](updates/README.md) |
+| 🔄 **了解每天如何整理、脱敏和发布** | [公开日更流程](docs/daily-update-workflow.md) |
 | 🚀 **查看公开版本与交付边界** | [版本记录](releases/README.md) |
 | 🧭 **了解当前进度和下一步方向** | [公开路线图](ROADMAP.md) |
 | 📝 **快速浏览全部产品变化** | [更新日志](CHANGELOG.md) |
@@ -81,4 +82,4 @@ PAWSON AI 是面向跨境电商与内容经营场景的 Windows 桌面工作台�
 
 私人仓库中的源代码、完整架构、内部接口、数据库结构、部署配置、系统提示词、凭证、客户信息和可复刻核心实现不会进入这里。
 
-后续更新沿用 [开发日记模板](updates/TEMPLATE.md) 的事实与脱敏检查。本仓库不提供产品源代码许可，详见 [LICENSE](LICENSE)。
+后续内容按 [公开日更流程](docs/daily-update-workflow.md) 执行，并沿用 [开发日记模板](updates/TEMPLATE.md) 的事实与脱敏检查。本仓库不提供产品源代码许可，详见 [LICENSE](LICENSE)。

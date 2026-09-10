@@ -20,7 +20,7 @@ The real development story of PAWSON AI, from a product-visual toolset to an int
   <img alt="Source" src="https://img.shields.io/badge/Source-Private-334155?style=flat-square&logo=github">
 </p>
 
-**[Development Story](docs/development-history.en.md)** · **[Product Gallery](screenshots/README_EN.md)** · **[Latest Update](updates/2026-09-10.md)** · **[Releases](releases/README_EN.md)** · **[Roadmap](ROADMAP_EN.md)**
+**[Development Story](docs/development-history.en.md)** · **[Product Gallery](screenshots/README_EN.md)** · **[Latest Update](updates/2026-09-10.en.md)** · **[Daily Workflow](docs/daily-update-workflow.en.md)** · **[Releases](releases/README_EN.md)** · **[Roadmap](ROADMAP_EN.md)**
 
 </div>
 
@@ -39,6 +39,7 @@ The real development story of PAWSON AI, from a product-visual toolset to an int
 | 📖 **How the product was built and why it changed** | [Full development story](docs/development-history.en.md) |
 | 🖼️ **Real interfaces and visual evolution** | [Product gallery](screenshots/README_EN.md) |
 | 🗓️ **Milestones organized by date** | [Development journal](updates/README_EN.md) |
+| 🔄 **How each daily entry is collected, redacted, and published** | [Public daily workflow](docs/daily-update-workflow.en.md) |
 | 🚀 **Public releases and delivery boundaries** | [Release index](releases/README_EN.md) |
 | 🧭 **Current focus and future direction** | [Public roadmap](ROADMAP_EN.md) |
 | 📝 **A compact list of product changes** | [Changelog](CHANGELOG_EN.md) |
@@ -65,15 +66,15 @@ Between late July and early September 2026, the private source repository accumu
 
 | Period | Product change | Read more |
 | --- | --- | --- |
-| Jul 2026 | First Windows delivery and core product-image workflow | [First delivery](updates/2026-07-25.md) |
-| Aug 2026 | Offline cross-border workflow with explicit live-platform boundaries | [Cross-border validation](updates/2026-08-04.md) |
-| Aug 2026 | Reports became reviewable, transferable deliverables | [Report milestone](updates/2026-08-12.md) |
-| Aug 2026 | Tools converged into project, data, operations, and task workspaces | [Agent MVP](updates/2026-08-21.md) |
-| Aug 2026 | Collection, data assets, knowledge, and product projects became connected | [Data workflow](updates/2026-08-26.md) |
-| Sep 2026 | Controlled commands, long-running tasks, files, and office capabilities | [Real work](updates/2026-09-01.md) |
-| Sep 2026 | Official agent runtime and three expert disciplines | [Agent milestone](updates/2026-09-06.md) |
-| Sep 2026 | Brand and primary workflow advanced to PAWSON AI Platform 2.0 | [2.0 milestone](updates/2026-09-09.md) |
-| Current | Identity, retries, usage, cancellation, and recovery verification | [P0 findings](updates/2026-09-10.md) |
+| Jul 2026 | First Windows delivery and core product-image workflow | [First delivery](updates/2026-07-25.en.md) |
+| Aug 2026 | Offline cross-border workflow with explicit live-platform boundaries | [Cross-border validation](updates/2026-08-04.en.md) |
+| Aug 2026 | Reports became reviewable, transferable deliverables | [Report milestone](updates/2026-08-12.en.md) |
+| Aug 2026 | Tools converged into project, data, operations, and task workspaces | [Agent MVP](updates/2026-08-21.en.md) |
+| Aug 2026 | Collection, data assets, knowledge, and product projects became connected | [Data workflow](updates/2026-08-26.en.md) |
+| Sep 2026 | Controlled commands, long-running tasks, files, and office capabilities | [Real work](updates/2026-09-01.en.md) |
+| Sep 2026 | Official agent runtime and three expert disciplines | [Agent milestone](updates/2026-09-06.en.md) |
+| Sep 2026 | Brand and primary workflow advanced to PAWSON AI Platform 2.0 | [2.0 milestone](updates/2026-09-09.en.md) |
+| Current | Identity, retries, usage, cancellation, and recovery verification | [P0 findings](updates/2026-09-10.en.md) |
 
 ## About this public repository
 
@@ -81,4 +82,4 @@ This repository shares product evolution, user value, verified results, design d
 
 Source code, full architecture, internal APIs, database schemas, deployment configuration, system prompts, credentials, customer information, and reproducible core implementation details remain private.
 
-Future entries follow the evidence and redaction checklist in the [journal template](updates/TEMPLATE.md). No source-code license is granted; see [LICENSE](LICENSE).
+Future entries follow the [public daily workflow](docs/daily-update-workflow.en.md) and the evidence and redaction checklist in the [journal template](updates/TEMPLATE_EN.md). No source-code license is granted; see [LICENSE](LICENSE).

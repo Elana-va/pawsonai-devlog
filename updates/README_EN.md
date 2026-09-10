@@ -15,3 +15,5 @@
 | Jul 25, 2026 | [The first deliverable Windows build](2026-07-25.en.md) |
 
 New entries follow the [journal template](TEMPLATE_EN.md), with both language versions updated together.
+
+See the [public daily workflow](../docs/daily-update-workflow.en.md) for the evidence, redaction, bilingual publishing, and remote verification process.
