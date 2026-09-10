@@ -20,11 +20,13 @@ The real development story of PAWSON AI, from a product-visual toolset to an int
   <img alt="Source" src="https://img.shields.io/badge/Source-Private-334155?style=flat-square&logo=github">
 </p>
 
-**[Development Story](docs/development-history.en.md)** · **[Product Gallery](screenshots/README_EN.md)** · **[Latest Update](updates/2026-09-10.en.md)** · **[Daily Workflow](docs/daily-update-workflow.en.md)** · **[Releases](releases/README_EN.md)** · **[Roadmap](ROADMAP_EN.md)**
+**[Development Story](docs/development-history.en.md)** · **[Product Gallery](screenshots/README_EN.md)** · **[Latest Update](updates/2026-09-10.en.md)** · **[Releases](releases/README_EN.md)** · **[Roadmap](ROADMAP_EN.md)**
 
 </div>
 
 ---
+
+> **Jump straight in:** 🚀 [Latest update · September 10, 2026](updates/2026-09-10.en.md)　·　📅 [Complete daily history](docs/daily-development-history.en.md#latest)
 
 ![PAWSON AI Platform 2.0 sign-in screen](screenshots/2026-09-platform-login.png)
 
@@ -39,7 +41,7 @@ The real development story of PAWSON AI, from a product-visual toolset to an int
 | 📖 **How the product was built and why it changed** | [Full development story](docs/development-history.en.md) |
 | 🖼️ **Real interfaces and visual evolution** | [Product gallery](screenshots/README_EN.md) |
 | 🗓️ **Milestones organized by date** | [Development journal](updates/README_EN.md) |
-| 🔄 **How each daily entry is collected, redacted, and published** | [Public daily workflow](docs/daily-update-workflow.en.md) |
+| 📅 **Follow every day from the beginning to the latest entry** | [Complete daily development history](docs/daily-development-history.en.md#latest) |
 | 🚀 **Public releases and delivery boundaries** | [Release index](releases/README_EN.md) |
 | 🧭 **Current focus and future direction** | [Public roadmap](ROADMAP_EN.md) |
 | 📝 **A compact list of product changes** | [Changelog](CHANGELOG_EN.md) |
@@ -73,6 +75,8 @@ Between late July and early September 2026, the private source repository accumu
 | Aug 2026 | Collection, data assets, knowledge, and product projects became connected | [Data workflow](updates/2026-08-26.en.md) |
 | Sep 2026 | Controlled commands, long-running tasks, files, and office capabilities | [Real work](updates/2026-09-01.en.md) |
 | Sep 2026 | Official agent runtime and three expert disciplines | [Agent milestone](updates/2026-09-06.en.md) |
+| Sep 2026 | Converged task interaction, business context, and runtime diagnostics | [Architecture closure](updates/2026-09-07.en.md) |
+| Sep 2026 | Established the first general AI gateway path and short-lived access boundary | [General AI gateway](updates/2026-09-08.en.md) |
 | Sep 2026 | Brand and primary workflow advanced to PAWSON AI Platform 2.0 | [2.0 milestone](updates/2026-09-09.en.md) |
 | Current | Identity, retries, usage, cancellation, and recovery verification | [P0 findings](updates/2026-09-10.en.md) |
 
@@ -82,4 +86,4 @@ This repository shares product evolution, user value, verified results, design d
 
 Source code, full architecture, internal APIs, database schemas, deployment configuration, system prompts, credentials, customer information, and reproducible core implementation details remain private.
 
-Future entries follow the [public daily workflow](docs/daily-update-workflow.en.md) and the evidence and redaction checklist in the [journal template](updates/TEMPLATE_EN.md). No source-code license is granted; see [LICENSE](LICENSE).
+Future entries follow the evidence and redaction checklist in the [journal template](updates/TEMPLATE_EN.md). No source-code license is granted; see [LICENSE](LICENSE).

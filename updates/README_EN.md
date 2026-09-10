@@ -2,10 +2,14 @@
 
 [简体中文](README.md) · **English**
 
+> 🚀 [Read the latest day: September 10, 2026](2026-09-10.en.md) · [View the complete daily history](../docs/daily-development-history.en.md#latest)
+
 | Date | Entry |
 | --- | --- |
 | Sep 10, 2026 | [P0 probe exposed a cancellation propagation gap](2026-09-10.en.md) |
 | Sep 9, 2026 | [PAWSON AI Platform entered the 2.0 stage](2026-09-09.en.md) |
+| Sep 8, 2026 | [The general AI gateway completed its first path](2026-09-08.en.md) |
+| Sep 7, 2026 | [Three architecture boundaries converged](2026-09-07.en.md) |
 | Sep 6, 2026 | [From a toolset to an integrated agent workspace](2026-09-06.en.md) |
 | Sep 1, 2026 | [The agent began handling files and long-running work](2026-09-01.en.md) |
 | Aug 26, 2026 | [Collection, data, and product projects became connected](2026-08-26.en.md) |
@@ -15,5 +19,3 @@
 | Jul 25, 2026 | [The first deliverable Windows build](2026-07-25.en.md) |
 
 New entries follow the [journal template](TEMPLATE_EN.md), with both language versions updated together.
-
-See the [public daily workflow](../docs/daily-update-workflow.en.md) for the evidence, redaction, bilingual publishing, and remote verification process.

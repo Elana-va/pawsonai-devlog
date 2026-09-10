@@ -7,7 +7,7 @@ This file lists product-level changes that are safe to publish. See the [develop
 ## September 10, 2026
 
 - Established the public development-log repository.
-- Added a daily workflow for evidence collection, redaction, bilingual writing, link checks, and remote verification.
+- Added a complete daily history based on actual private-repository commit dates, with major changes expanded by day.
 - Completed Chinese and English editions for all dated entries and release notes.
 - Completed the isolated runtime experiment for commercial AI access: 15 of 16 final cases passed.
 - Found that user cancellation did not promptly close the upstream connection and validated a separate explicit-abort prototype.
@@ -18,6 +18,19 @@ This file lists product-level changes that are safe to publish. See the [develop
 - Entered the PAWSON AI Platform 2.0 stage.
 - Made the new agent the primary product line and added conversation-level model selection.
 - Restored web reading, web search, source links, and pluggable capabilities.
+
+## September 8, 2026
+
+- Retired the previous multi-provider capability router and established a provider-neutral capability contract.
+- Added short-lived signed authorization and the first desktop Agent path through the AI gateway.
+- Brought text, image generation, image editing, and product-detail transport under one capability boundary.
+- Accepted the first live text path and consumer authorization; commercial usage reconciliation remained unverified.
+
+## September 7, 2026
+
+- Converged task interaction, trusted business context, and runtime observability and recovery.
+- Removed Agent-driven page navigation and cross-feature prefilling after hands-on review, preserving user-controlled navigation.
+- Passed 2,389 tests across 373 test files and completed the full production build.
 
 ## September 6, 2026
 

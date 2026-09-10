@@ -4,6 +4,8 @@
 
 > This is a living development journal. Last updated: September 10, 2026.
 
+> 📅 [View the complete history for every active development day](daily-development-history.en.md#latest) · 🚀 [Read the latest update](../updates/2026-09-10.en.md)
+
 PAWSON AI was not completed from one fixed blueprint. It took shape through real deliveries, recovery work, product tradeoffs, and repeated verification. Each phase addressed problems exposed by the previous one and changed what the next phase needed to solve.
 
 This story explains the decisions and outcomes without publishing private source code, full architecture, internal APIs, provider configuration, or security implementation.
@@ -122,11 +124,23 @@ Visual diagnosis, business analysis, and document delivery became three maintain
 
 On September 6, these elements formed a clear milestone: PAWSON had moved beyond a collection of tools and gained a unified agent entry point, business context, professional methods, controlled execution, and file delivery. The verification baseline contained 365 test files and 2,342 passing tests, with production builds passing as well.
 
-## September 7–9: architecture convergence and the 2.0 stage
+## September 7: three architecture boundaries converged
 
-The project then focused on convergence. Module boundaries were clarified, a safer AI gateway path was established, model selection became conversation-specific, and the retired agent path was removed from the active product line.
+After the milestone, the project stopped expanding the core and unified task interaction, trusted business context, and runtime observability and recovery. Start, steering, approval, stall, stop, and recovery returned to one runtime truth. Business data entered the current task only as a user-controlled read-only input, and diagnostics retained only bounded safe metadata.
 
-On September 9, the desktop product became PAWSON AI Platform 2.0, unifying the desktop client, control center, reports, and collection extension under one brand while preserving account, credit, local-data, and update compatibility.
+Hands-on review led to removing Agent-driven page navigation, cross-feature prompt prefilling, and internal action cards. Navigation remained under user control. The full production build and all 2,389 tests across 373 files passed, moving the project into smaller acceptance steps and defect fixes. [Read the complete entry](../updates/2026-09-07.en.md).
+
+## September 8: the first general AI gateway path
+
+After retiring the previous multi-provider router, the project established a provider-neutral versioned capability contract, least-privilege short-lived access, and the first desktop Agent gateway path. Text, image generation, image editing, and product details began sharing one capability catalog, while long-lived provider secrets stayed out of the desktop UI, ordinary logs, and control-center responses.
+
+Model content went directly to the AI gateway, while the control center handled only identity eligibility, capabilities, and short-lived access. The first live Qwen text path and consumer authorization passed hands-on acceptance. Trusted commercial usage reconciliation remained incomplete, so a client result was not described as successful billing. [Read the complete entry](../updates/2026-09-08.en.md).
+
+## September 9: Agent capability restoration and the 2.0 stage
+
+Model selection became conversation-specific. Web search, public-page reading, clickable sources, expert identity, the global assistant, and structured file delivery returned through the new Agent path. The legacy Agent runtime, local provider direct access, and old data path retired from the active product.
+
+That day, the desktop product became PAWSON AI Platform 2.0, unifying the desktop client, control center, reports, and collection extension under one brand while preserving account, credit, local-data, and update compatibility.
 
 ![PAWSON AI Platform 2.0 sign-in screen](../screenshots/2026-09-platform-login.png)
 

@@ -20,11 +20,13 @@
   <img alt="Source" src="https://img.shields.io/badge/源码-Private-334155?style=flat-square&logo=github">
 </p>
 
-**[开发历程](docs/development-history.md)** · **[项目图片](screenshots/README.md)** · **[最新进展](updates/2026-09-10.md)** · **[日更流程](docs/daily-update-workflow.md)** · **[版本记录](releases/)** · **[公开路线图](ROADMAP.md)**
+**[开发历程](docs/development-history.md)** · **[项目图片](screenshots/README.md)** · **[最新进展](updates/2026-09-10.md)** · **[版本记录](releases/)** · **[公开路线图](ROADMAP.md)**
 
 </div>
 
 ---
+
+> **快速到达：** 🚀 [最新开发进展 · 2026-09-10](updates/2026-09-10.md)　·　📅 [逐日开发历程](docs/daily-development-history.md#latest)
 
 ![派笙 AI 中台 2.0 登录页](screenshots/2026-09-platform-login.png)
 
@@ -39,7 +41,7 @@
 | 📖 **项目是怎样一路做出来的** | [完整开发历程](docs/development-history.md) |
 | 🖼️ **查看真实产品界面与演进对比** | [项目图片集](screenshots/README.md) |
 | 🗓️ **按日期查看每个阶段做了什么** | [开发日记](updates/README.md) |
-| 🔄 **了解每天如何整理、脱敏和发布** | [公开日更流程](docs/daily-update-workflow.md) |
+| 📅 **从第一天连续看到最新一天** | [完整逐日开发历程](docs/daily-development-history.md#latest) |
 | 🚀 **查看公开版本与交付边界** | [版本记录](releases/README.md) |
 | 🧭 **了解当前进度和下一步方向** | [公开路线图](ROADMAP.md) |
 | 📝 **快速浏览全部产品变化** | [更新日志](CHANGELOG.md) |
@@ -73,6 +75,8 @@ PAWSON AI 是面向跨境电商与内容经营场景的 Windows 桌面工作台�
 | 2026-08 | 连接采集、数据资产、知识库和商品项目 | [数据链路节点](updates/2026-08-26.md) |
 | 2026-09 | Agent 获得受控命令、长任务、文件和办公能力 | [处理真实工作](updates/2026-09-01.md) |
 | 2026-09 | 接入正式 Agent 运行时与三类专家方法 | [综合 Agent 里程碑](updates/2026-09-06.md) |
+| 2026-09 | 收口任务交互、经营上下文和运行诊断三项架构 | [三项架构收口](updates/2026-09-07.md) |
+| 2026-09 | 建立通用 AI 网关首条链路和短期授权边界 | [通用 AI 网关](updates/2026-09-08.md) |
 | 2026-09 | 品牌与主链路升级到派笙 AI 中台 2.0 | [2.0 阶段记录](updates/2026-09-09.md) |
 | 当前 | 验证身份、重试、用量、取消和异常恢复边界 | [P0 实验结果](updates/2026-09-10.md) |
 
@@ -82,4 +86,4 @@ PAWSON AI 是面向跨境电商与内容经营场景的 Windows 桌面工作台�
 
 私人仓库中的源代码、完整架构、内部接口、数据库结构、部署配置、系统提示词、凭证、客户信息和可复刻核心实现不会进入这里。
 
-后续内容按 [公开日更流程](docs/daily-update-workflow.md) 执行，并沿用 [开发日记模板](updates/TEMPLATE.md) 的事实与脱敏检查。本仓库不提供产品源代码许可，详见 [LICENSE](LICENSE)。
+后续更新沿用 [开发日记模板](updates/TEMPLATE.md) 的事实与脱敏检查。本仓库不提供产品源代码许可，详见 [LICENSE](LICENSE)。
