@@ -295,5 +295,3 @@ This timeline follows PAWSON AI on the private source repository's actual commit
 ## Recording principles
 
 This timeline contains only claims supported by commits, checkpoints, tests, builds, real files, or hands-on acceptance. Dates without commits are omitted. Plans, drafts, and UI messages are not rewritten as completion. Private source, full architecture, internal addresses, credentials, customer data, and reproducible implementation remain outside the public record.
-
-
